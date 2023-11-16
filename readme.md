@@ -11,4 +11,5 @@ show <- show the calculation in console or not (boolean)
 ![image](case1.JPG?raw=true)   
 
 We can create thread base on the number of pair of row and column.    
-Use the above image as an example , we will create 2*2 = 4 thread for calculation.
+Use the above image as an example , we will create 2*2 = 4 thread for calculation.  
+Then we have to configure the stack size or  
